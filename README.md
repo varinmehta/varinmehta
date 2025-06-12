@@ -56,7 +56,7 @@
 
 - 📩 Email: varin.mehta22@spit.ac.in
 - 🌐 Portfolio: [varinmehta.tech](https://varinmehta.tech/)
-- 🧠 LeetCode: [leetcode.com/u/vrinamehta](https://leetcode.com/u/vrinamehta/)
+- 🧠 LeetCode: [leetcode profile](https://leetcode.com/u/vrinamehta/)
 
 ---
 
