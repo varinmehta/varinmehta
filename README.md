@@ -56,10 +56,9 @@
 
 - 📩 Email: varin.mehta22@spit.ac.in
 - 🌐 Portfolio: [varinmehta.tech](https://varinmehta.tech/)
-- 🧠 LeetCode: [leetcode profile](https://leetcode.com/u/vrinamehta/)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Always+learning+new+things!;Exploring+finance+tech+projects;Let's+collaborate+and+code+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Always+learning+new+things!;Exploring+finance-tech+projects;Let's+collaborate+and+code+%F0%9F%92%BB" />
 </p>
