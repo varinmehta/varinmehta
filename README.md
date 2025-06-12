@@ -11,7 +11,13 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=Google-Chrome" alt="Portfolio" />
   </a>
   <a href="https://leetcode.com/u/vrinamehta/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="Leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode" />
+  </a>
+  <a href="https://www.codechef.com/users/varinmehta" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CODECHEF" />
+  </a>
+  <a href="https://codeforces.com/profile/varinmehta" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
   </a>
 </p>
 
